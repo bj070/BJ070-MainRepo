@@ -21,6 +21,6 @@ This is the first public version of my portfolio. This page will be updated with
 - JavaScript
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Font Awesome 5](https://fontawesome.com/)
-- [google map](https://www.embed-map.com/)
+- [Google map](https://www.embed-map.com/)
 
 <!-- This is the [live demo](https://brad-portfolio.netlify.app/) of the project . -->
